@@ -11,19 +11,16 @@ cook_book = {
     {'ingredient_name': 'Соевый соус', 'quantity': 60, 'measure': 'мл'}
     ],
   'Запеченный картофель': [
-    {'ingredient_name': 'Картофель', 'quantity': 1, 'measure': 'кг'},
+    {'ingreadient_name': 'Картофель', 'quantity': 1, 'measure': 'кг'},
     {'ingredient_name': 'Чеснок', 'quantity': 3, 'measure': 'зубч'},
     {'ingredient_name': 'Сыр гауда', 'quantity': 100, 'measure': 'г'},
-    ]
+    ],
   'Фахитос': [
     {'ingreadient_name': 'Говядина', 'quantity': 500, 'measure': 'кг'},
-    {'ingreadient_name': 'Перец сладкий', 'quantity': 1, 'measure': 'шт'}
-    {'ingreadient_name': 'Лаваш', 'quantity': 2, 'measure': 'шт'}
-    {'ingreadient_name': 'Винный уксус', 'quantity': 1, 'mesure': 'ст.л'}
+    {'ingreadient_name': 'Перец сладкий', 'quantity': 1, 'measure': 'шт'},
+    {'ingreadient_name': 'Винный уксус', 'quantity': 1, 'mesure': 'ст.л'},
     {'ingreadient_name': 'Помидор', 'quantity': 2, 'mesure': 'шт'}
   ]
-
-
-
+}
 
 
