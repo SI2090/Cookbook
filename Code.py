@@ -60,3 +60,4 @@ file_for_writing = os.path.abspath('/Users/sergey/PycharmProjects/pythonProject1
 base_path = os.getcwd()
 location = os.path.abspath('/Users/sergey/PycharmProjects/pythonProject1/')
 rewriting(file_for_writing, base_path, location)
+
